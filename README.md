@@ -1,4 +1,6 @@
 # Aula
 Aula 30/05
-Primeira alteração
-Segunda alteração
+Primeira alteraÃ§Ã£o
+Segunda alteraÃ§Ã£o
+
+Terceira alteraÃ§Ã£o
